@@ -1,4 +1,3 @@
 def addSum(a,b):
-    return a+b
-
-print(addSum(3,2))
+    print(a+b)
+addSum(3,2)
